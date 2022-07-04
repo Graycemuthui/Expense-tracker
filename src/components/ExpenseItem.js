@@ -1,17 +1,17 @@
+import ExpenseDate from './ExpenseDate';
 import './ExpenseItem.css';
-import PropTypes from 'prop-types';
 
 /* eslint-disable react/prop-types */
+/* eslint-disable  react/destructuring-assignment */
 function ExpenseItem(props) {
-  const { date, title, amount } = props;
   return (
     <div className="expense-item">
-      <div>{date.toISOString()}</div>
+      <ExpenseDate date={props.date} />
       <div className="expense-item__description">
-        <h2>{title}</h2>
+        <h2>{props.title}</h2>
         <span className="expense-item__price">
           $
-          {amount}
+          {props.amount}
         </span>
       </div>
     </div>
@@ -19,9 +19,3 @@ function ExpenseItem(props) {
 }
 
 export default ExpenseItem;
-
-ExpenseItem.prototype = {
-  date: PropTypes.number,
-  title: PropTypes.string,
-  amount: PropTypes.number,
-};
