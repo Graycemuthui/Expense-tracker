@@ -2,7 +2,7 @@ import './ExpenseDate.css';
 
 /* eslint-disable  react/destructuring-assignment */
 /* eslint-disable react/prop-types */
-function ExpenseDate(props) {
+const ExpenseDate = (props) => {
   const month = props.date.toLocaleString('en-US', { month: 'long' });
   const day = props.date.toLocaleString('en-US', { day: '2-digit' });
   const year = props.date.getFullYear();
@@ -14,6 +14,6 @@ function ExpenseDate(props) {
       <div className="expense-date__day">{year}</div>
     </div>
   );
-}
+};
 
 export default ExpenseDate;
