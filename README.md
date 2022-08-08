@@ -1,6 +1,6 @@
 ### Expense tracker
 
-- This is a Microverse project that entails an expense tracker built with React.
+- This is a project that entails an expense tracker built with React.
 
 ## Built With
 
