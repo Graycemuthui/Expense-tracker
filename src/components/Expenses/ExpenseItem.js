@@ -7,6 +7,7 @@ import './ExpenseItem.css';
 /* eslint-disable  react/destructuring-assignment */
 const ExpenseItem = (props) => (
   <Card className="expense-item">
+    <div>{props.id}</div>
     <ExpenseDate date={props.date} />
     <div className="expense-item__description">
       <h2>{props.title}</h2>
@@ -14,6 +15,9 @@ const ExpenseItem = (props) => (
         $
         {props.amount}
       </span>
+      <button className="remove-btn" type="button">
+        Remove
+      </button>
     </div>
   </Card>
 );

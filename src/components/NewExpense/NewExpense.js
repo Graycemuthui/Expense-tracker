@@ -1,10 +1,10 @@
-import ExpenseForm from './ExpenseForm';
-import './NewExpense.css';
+import ExpenseForm from "./ExpenseForm";
+import "./NewExpense.css";
 
 const NewExpense = (props) => {
-  const onSaveExpenseDataHandler = (eneteredExpenseData) => {
+  const onSaveExpenseDataHandler = (enteredExpenseData) => {
     const expenseData = {
-      ...eneteredExpenseData,
+      ...enteredExpenseData,
       id: Math.random().toString(),
     };
     /* eslint-disable  react/destructuring-assignment */
