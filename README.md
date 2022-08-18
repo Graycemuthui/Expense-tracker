@@ -20,7 +20,7 @@
 
 ### Live Demo
 
-- To view a live demo of the project you can click on this [link](https://lovely-lolly-151ea2.netlify.app/).
+- To view a live demo of the project you can click on this [link](https://gorgeous-beijinho-ebe46a.netlify.app/).
 
 ### Getting Started
 
@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo by running the command
    ```sh
-    git clone https://github.com/Graycemuthui/Conference-Page.git
+    git clone https://github.com/Graycemuthui/Expense-tracker
    ```
 2. Open the directory of the project
    ```sh
@@ -62,7 +62,7 @@ See the [open issues](#) for a full list of proposed features (and known issues)
 
 - Contributions, issues, and feature requests are welcome!
 
-- Feel free to check the [issues page](https://github.com/Graycemuthui/Conference-Page/issues).
+- Feel free to check the [issues page](https://github.com/Graycemuthui/Expense-tracker/issues).
 
 ## Show your support
 
