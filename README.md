@@ -20,7 +20,7 @@
 
 ### Live Demo
 
-- To view a live demo of the project you can click on this [link](https://lovely-lolly-151ea2.netlify.app/).
+- To view a live demo of the project you can click on this [link](https://gorgeous-beijinho-ebe46a.netlify.app/expenses).
 
 ### Getting Started
 
