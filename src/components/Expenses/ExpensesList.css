@@ -1,6 +1,6 @@
-.expense-list {
+ul.expenses-list {
   list-style-type: none;
-  padding: 0;
+  padding: 0 !important;
 }
 
 .expenses-list__fallback {
