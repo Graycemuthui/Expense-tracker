@@ -66,9 +66,7 @@ See the [open issues](#) for a full list of proposed features (and known issues)
 
 ## Acknowledgements
 
-- Original design by Cindy Shin in [Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-- London background by Elena De Sotoin in [Unsplash](elena-de-soto-w423NnHFjFg-unsplash.jpg)
-- Ethiopia background by Jakod Dalbjorn in [Unsplash](https://unsplash.com/photos/cuKJre3nyYc)
+- Body background by Pavel Danilyuk in [Pexels](https://www.pexels.com/photo/business-analytic-and-calculator-on-top-of-the-table-7654579/)
 
 ## 📝 License
 
