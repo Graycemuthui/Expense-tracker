@@ -20,7 +20,7 @@
 
 ### Live Demo
 
-- To view a live demo of the project you can click on this [link](https://admirable-cendol-446843.netlify.app).
+- To view a live demo of the project you can click on this [link](https://lovely-lolly-151ea2.netlify.app/).
 
 ### Getting Started
 
