@@ -10,5 +10,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #f9f9f9;
+  background-image: url(../src/components/images/expenses.jpg);
+  object-fit: contain;
+  background-size: 100%;
 }
