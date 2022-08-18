@@ -15,9 +15,6 @@ const ExpenseItem = (props) => (
         $
         {props.amount}
       </span>
-      <button className="remove-btn" type="button">
-        Remove
-      </button>
     </div>
   </Card>
 );
