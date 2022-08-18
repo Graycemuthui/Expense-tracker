@@ -2,6 +2,10 @@
 
 - This is a project that entails an expense tracker built with React.
 
+### Screenshot
+
+![expenses 2](https://user-images.githubusercontent.com/95374858/185393561-a1ecb5c5-9538-4c09-897a-dc1ca6c7bc31.png)
+
 ## Built With
 
 - React
