@@ -20,7 +20,7 @@
 
 ### Live Demo
 
-- To view a live demo of the project you can click on this [link](https://gorgeous-beijinho-ebe46a.netlify.app/).
+- To view a live demo of the project you can click on this [link](https://wonderful-cranachan-8f7ca3.netlify.app/).
 
 ### Getting Started
 
