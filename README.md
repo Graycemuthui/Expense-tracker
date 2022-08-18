@@ -20,7 +20,7 @@
 
 ### Live Demo
 
-- To view a live demo of the project you can click on this [link](https://gorgeous-beijinho-ebe46a.netlify.app/).
+- To view a live demo of the project you can click on this [link](https://gorgeous-beijinho-ebe46a.netlify.app/expenses).
 
 ### Getting Started
 
@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Open the directory of the project
    ```sh
-   cd Conference Page.git
+   cd Expense Tracker.git
    ```
 3. Open the html file
    ```sh
