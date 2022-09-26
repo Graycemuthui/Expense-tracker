@@ -16,7 +16,7 @@
 
 ### Live Demo
 
-- To view a live demo of the project you can click on this [link](https://wonderful-cranachan-8f7ca3.netlify.app/).
+- To view a live demo of the project you can click on this [link](https://jovial-smakager-106e5a.netlify.app/).
 
 ### Getting Started
 
