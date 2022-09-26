@@ -9,8 +9,5 @@ html {
 }
 
 body {
-  margin: 0;
-  background-image: url(../src/components/images/expenses.jpg);
-  object-fit: contain;
-  background-size: 100%;
+  background-color: rgb(43, 86, 226);
 }
